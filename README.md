@@ -5,12 +5,16 @@
  - [Homework-Description](#homework-description)
  - [Links](#links)
  - [Overview](#overview)
+ - [Pictures](#pictures)
  - [User-story](#user-story)
  - [Contributors](#contributors)
  - [Business-context](#business-context)
 
 ## Homework Description
  This React based Employee Directory allows a user to search employess by entering a query in the Search box. This query can be a string (including a name fragment) or integers; the search is conducted across all columns. The directory is also filterable by the Email and Phone table headings.
+
+ ## Links
+ visit the deployed app at: [Deployed-link](#https://random-employee-directory.herokuapp.com/)
 
 ## Overview
 
