@@ -23,6 +23,9 @@ For this assignment, I created  an employee directory with React. This assignmen
 
 i created components to handle each part of the application and latter,i joined all of them to my root component APP
 
+## Pictures
+![user](https://user-images.githubusercontent.com/71171928/110235833-96cc5d00-7f32-11eb-9e11-ed5b52f58bdb.PNG)
+
 ## User Story
 
 * As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
