@@ -1,17 +1,15 @@
 # React Employee Directory
+ 
+ ## TABLE OF CONTEND
 
-### Trilogy Fullstack new pgm: Homework Unit 19 React Homework: Employee Directory 
-*(I am a Senior Tutor @Trilogy, this exercise is part of the new program, I am coding my own solutions or adding some changes)*
-
-#### *The exercice is adapted to use Hooks (converted all Class components to Function components. useContext instead pass props. Use useEffect)* 
-
-## Example: https://react-employee-directory-2019.herokuapp.com/
-
-## API used:
-* randomuser.me 
+ - [Homework-Description](#homework-description)
+ - [Links](#links)
+ - [Overview](#overview)
+ - [User-story](#user-story)
+ - [Contributors](#contributors)
 
 ## Homework Description
-
+ This React based Employee Directory allows a user to search employess by entering a query in the Search box. This query can be a string (including a name fragment) or integers; the search is conducted across all columns. The directory is also filterable by the Email and Phone table headings.
 
 ## Overview
 
